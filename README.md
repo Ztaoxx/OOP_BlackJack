@@ -1,2 +1,2 @@
 # OOP_BlackJack
-BlackJack createn in python, using simple OOP.
+BlackJack created in python, using simple OOP.
